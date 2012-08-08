@@ -2,7 +2,9 @@
 <wallpapers>
 	<category id="main" name="Main">
 		<wallpaper 
-			url="http://cr5315.com/FNV/wallpapers/fnv_1.png"  />
+			url="http://cr5315.com/FNV/wallpapers/fnv_1.png"
+			name="FNV Green"
+			author="knokfirst"  />
 		<wallpaper 
 			url="http://cr5315.com/FNV/wallpapers/fnv_2.png"  />
 		<wallpaper 
