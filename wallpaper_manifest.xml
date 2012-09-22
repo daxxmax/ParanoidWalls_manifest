@@ -3,59 +3,57 @@
 
     <catergory name="Paranoid" >
 
+		<wallpaper
+                    author="daxxmax" 
+	            url="http://loota.org/~daxxmax/pwallpapers/paranoid_1.jpg" />
+
+		<wallpaper
+                    author="daxxmax" 
+	            url="http://loota.org/~daxxmax/pwallpapers/paranoid_2.jpg" />
+
 		<wallpaper 
-			url="http://loota.org/~daxxmax/pwallpapers/paranoid_1.jpg"
-			name="Colorize Blue"
-			author="daxxmax"  />
+                    author="daxxmax"
+	            url="http://loota.org/~daxxmax/pwallpapers/paranoid_3.jpg" />
+
 		<wallpaper 
-			url="http://loota.org/~daxxmax/pwallpapers/paranoid_2.jpg"
-			name="Just Got Darker"
-			author="daxxmax"  />
-		<wallpaper 
-			url="http://loota.org/~daxxmax/pwallpapers/paranoid_3.jpg"
-			name="The Darkness..."
-			author="daxxmax"  />
-		<wallpaper 
-			url="http://loota.org/~daxxmax/pwallpapers/paranoid_4.jpg"
-			name="Your Move"
-			author="knokfirst"  />
+                    author="knokfirst"
+	            url="http://loota.org/~daxxmax/pwallpapers/paranoid_4.jpg"/>
 
     </category>
 
     <category name="Arts" >
 
                 <wallpaper 
-			url="http://loota.org/~daxxmax/pwallpapers/wallpaper_1.jpg"
-			name="Nothing is Real"
-			author="Tina"  />
-		<wallpaper 
-			url="http://loota.org/~daxxmax/pwallpapers/wallpaper_2.jpg"
-			name="El Goog"
-			author="Tina"  />
-		<wallpaper 
-			url="http://loota.org/~daxxmax/pwallpapers/wallpaper_3.jpg"
-			name="City Djungle"
-			author="Tina"  />
-		<wallpaper 
-			url="http://loota.org/~daxxmax/pwallpapers/wallpaper_4.jpg"
-			name="Singing Bird"
-			author="Tina"  />
-                <wallpaper 
-			url="http://loota.org/~daxxmax/pwallpapers/wallpaper_5.jpg"
-			name="Juggling Monster"
-			author="Tina"  />
-		<wallpaper 
-			url="http://loota.org/~daxxmax/pwallpapers/wallpaper_6.jpg"
-			name="Rocket Launcher"
-			author="Tina"  />
-		<wallpaper 
-			url="http://loota.org/~daxxmax/pwallpapers/wallpaper_7.jpg"
-			name="Pet Sematary"
-			author="Tina"  />
-		<wallpaper 
-			url="http://loota.org/~daxxmax/pwallpapers/wallpaper_8.jpg"
-			name="Fallen Cookies"
-			author="Tina"  />
+                    author="Tina"
+		    url="http://loota.org/~daxxmax/pwallpapers/wallpaper_1.jpg" />
+
+		<wallpaper
+                    author="Tina" 
+	            url="http://loota.org/~daxxmax/pwallpapers/wallpaper_2.jpg" />
+
+		<wallpaper
+                    author="Tina" 
+	            url="http://loota.org/~daxxmax/pwallpapers/wallpaper_3.jpg" />
+
+		<wallpaper
+                    author="Tina"
+	            url="http://loota.org/~daxxmax/pwallpapers/wallpaper_4.jpg" />
+
+                <wallpaper
+                    author="Tina"
+                    url="http://loota.org/~daxxmax/pwallpapers/wallpaper_5.jpg" />
+
+		<wallpaper
+                    author="Tina"
+	            url="http://loota.org/~daxxmax/pwallpapers/wallpaper_6.jpg" />
+
+		<wallpaper
+                    author="Tina" 
+	            url="http://loota.org/~daxxmax/pwallpapers/wallpaper_7.jpg" />
+
+		<wallpaper
+                    author="Tina" 
+	            url="http://loota.org/~daxxmax/pwallpapers/wallpaper_8.jpg" />
 
     </category>
 
