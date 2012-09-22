@@ -1,157 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <wallpapers>
-	<category id="main" name="Main">
+
+    <catergory name="Paranoid" >
+
 		<wallpaper 
-			url="http://cr5315.com/FNV/wallpapers/fnv_1.png"
-			name="FNV"
+			url="http://loota.org/~daxxmax/pwallpapers/paranoid_1.jpg"
+			name="Colorize Blue"
+			author="daxxmax"  />
+		<wallpaper 
+			url="http://loota.org/~daxxmax/pwallpapers/paranoid_2.jpg"
+			name="Just Got Darker"
+			author="daxxmax"  />
+		<wallpaper 
+			url="http://loota.org/~daxxmax/pwallpapers/paranoid_3.jpg"
+			name="The Darkness..."
+			author="daxxmax"  />
+		<wallpaper 
+			url="http://loota.org/~daxxmax/pwallpapers/paranoid_4.jpg"
+			name="Your Move"
 			author="knokfirst"  />
+
+    </category>
+
+    <category name="Arts" >
+
+                <wallpaper 
+			url="http://loota.org/~daxxmax/pwallpapers/wallpaper_1.jpg"
+			name="Nothing is Real"
+			author="Tina"  />
 		<wallpaper 
-			url="http://cr5315.com/FNV/wallpapers/fnv_2.png"
-			name="FV Dark"
-			author="knokfirst"  />
+			url="http://loota.org/~daxxmax/pwallpapers/wallpaper_2.jpg"
+			name="El Goog"
+			author="Tina"  />
 		<wallpaper 
-			url="http://cr5315.com/FNV/wallpapers/fnv_3.png"
-			name="FNV Red"
-			author="knokfirst"  />
+			url="http://loota.org/~daxxmax/pwallpapers/wallpaper_3.jpg"
+			name="City Djungle"
+			author="Tina"  />
 		<wallpaper 
-			url="http://cr5315.com/FNV/wallpapers/fnv_4.png"
-			name="FNV Green"
-			author="knokfirst"  />
+			url="http://loota.org/~daxxmax/pwallpapers/wallpaper_4.jpg"
+			name="Singing Bird"
+			author="Tina"  />
+                <wallpaper 
+			url="http://loota.org/~daxxmax/pwallpapers/wallpaper_5.jpg"
+			name="Juggling Monster"
+			author="Tina"  />
 		<wallpaper 
-			url="http://cr5315.com/FNV/wallpapers/fnv_5.png"
-			name="FNV Blue"
-			author="knokfirst"  />
+			url="http://loota.org/~daxxmax/pwallpapers/wallpaper_6.jpg"
+			name="Rocket Launcher"
+			author="Tina"  />
 		<wallpaper 
-			url="http://cr5315.com/FNV/wallpapers/fnv_6.png"
-			name="FNV Pink"
-			author="knokfirst"  />
+			url="http://loota.org/~daxxmax/pwallpapers/wallpaper_7.jpg"
+			name="Pet Sematary"
+			author="Tina"  />
 		<wallpaper 
-			url="http://cr5315.com/FNV/wallpapers/fnv_7.png"
-			name="hgcr"
-			author="knokfirst"  />
-		<wallpaper 
-			url="http://cr5315.com/FNV/wallpapers/fnv_8.png"
-			name="hgcr blue"
-			author="knokfirst"  />
-		<wallpaper 
-			url="http://cr5315.com/FNV/wallpapers/fnv_9.png"
-			name="FNV Nature"
-			author="knokfirst"  />
-		<wallpaper 
-			url="http://cr5315.com/FNV/wallpapers/fnv_10.png"
-			name="FNV Nature 2"
-			author="knokfirst"  />
-		<wallpaper 
-			url="http://cr5315.com/FNV/wallpapers/fnv_11.png"
-			name="FNV Nature 3"
-			author="knokfirst"  />
-		<wallpaper 
-			url="http://cr5315.com/FNV/wallpapers/fnv_12.png"
-			name="Acai"
-			author="knokfirst"  />
-		<wallpaper 
-			url="http://cr5315.com/FNV/wallpapers/fnv_13.png"
-			name="garyd9"
-			author="knokfirst"  />
-		<wallpaper 
-			url="http://cr5315.com/FNV/wallpapers/fnv_14.png"
-			name="Nexus"
-			author="knokfirst"  />
-		<wallpaper 
-			url="http://cr5315.com/FNV/wallpapers/fnv_15.png"
-			name="Nexus Alt"
-			author="knokfirst"  />
-		<wallpaper 
-			url="http://cr5315.com/FNV/wallpapers/fnv_16.png"
-			name="Nexus Light"
-			author="knokfirst"  />
-		<wallpaper 
-			url="http://cr5315.com/FNV/wallpapers/fnv_17.png"
-			name="Nexus Light Alt"
-			author="knokfirst"  />
-		<wallpaper 
-			url="http://cr5315.com/FNV/wallpapers/fnv_18.png"  />
-		<wallpaper 
-			url="http://cr5315.com/FNV/wallpapers/fnv_19.png"
-			name="A Mission"
-			author="Despyse"  />
-		<wallpaper 
-			url="http://cr5315.com/FNV/wallpapers/fnv_20.png"  />
-		<wallpaper 
-			url="http://cr5315.com/FNV/wallpapers/fnv_21.png"  />
-		<wallpaper 
-			url="http://cr5315.com/FNV/wallpapers/fnv_22.png"  />
-		<wallpaper 
-			url="http://cr5315.com/FNV/wallpapers/fnv_23.png"
-			name=""
-			author="Despyse"  />
-		<wallpaper 
-			url="http://cr5315.com/FNV/wallpapers/fnv_24.png"
-			name=""
-			author="Despyse"  />
-		<wallpaper
-			url="http://cr5315.com/FNV/wallpapers/fnv_25.png"
-			name=""
-			author="knokfirst" />
-		<wallpaper 
-			url="http://cr5315.com/FNV/wallpapers/fnv_26.png"
-			name="Rickroll'd"
-			author="knokfirst"  />
-		<wallpaper 
-			url="http://cr5315.com/FNV/wallpapers/fnv_27.png"
-			name="WTF"
-			author="knokfirst"  />
-		<wallpaper 
-			url="http://cr5315.com/FNV/wallpapers/fnv_28.png"
-			name="Garden Goodness"
-			author="PhilD41"  />
-		<wallpaper
-			url="http://cr5315.com/FNV/wallpapers/fnv_29.png"
-			name="WTF 2"
-			author="knokfirst"  />
-		<wallpaper
-			url="http://cr5315.com/FNV/wallpapers/fnv_30.png"
-			name="Healthy Android"
-			author="PhilD41" />
-		<wallpaper
-			url="http://cr5315.com/FNV/wallpapers/fnv_31.png"
-			name="Noise"
-			author="PhilD41" />
-		<wallpaper
-			url="http://cr5315.com/FNV/wallpapers/fnv_32.png"
-			name="Luxury FNV"
-			author="THE ALMIGHTY BANE" />
-		<wallpaper
-			url="http://cr5315.com/FNV/wallpapers/fnv_33.png"
-			name="Luxury FNV Blue"
-			author="THE ALMIGHTY BANE" />
-		<wallpaper
-			url="http://cr5315.com/FNV/wallpapers/fnv_34.png"
-			name="Bokeh"
-			author="cr5315" />
-		<wallpaper
-			url="http://cr5315.com/FNV/wallpapers/fnv_35.png"
-			name="Glass"
-			author="cr5315" />
-		<wallpaper
-			url="http://cr5315.com/FNV/wallpapers/fnv_36.png"
-			name="Neon"
-			author="cr5315" />
-		<wallpaper
-			url="http://cr5315.com/FNV/wallpapers/fnv_37.png"
-			name="Beets Dark"
-			author="knokfirst" />
-		<wallpaper
-			url="http://cr5315.com/FNV/wallpapers/fnv_38.png"
-			name="Beets Light"
-			author="knokfirst" />
-		<wallpaper
-			url="http://cr5315.com/FNV/wallpapers/fnv_39.png"
-			name="Fruits &amp; Veggies"
-			author="wad3" />
-		<wallpaper
-			url="http://cr5315.com/FNV/wallpapers/fnv_40.png"
-			name="Project FNV"
-			author="wad3" />
-	</category>
+			url="http://loota.org/~daxxmax/pwallpapers/wallpaper_8.jpg"
+			name="Fallen Cookies"
+			author="Tina"  />
+
+    </category>
+
 </wallpapers>
