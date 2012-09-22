@@ -3,62 +3,56 @@
 
     <catergory name="Paranoid" >
 
-        <wallpaper
-            author="B-Boytm"
-            url="http://bakedrom.backupuser.com/wallpapers/baked5.png" />
+	<wallpaper
+            author="daxxmax" 
+	    url="http://loota.org/~daxxmax/pwallpapers/paranoid_1.jpg" />
 
-		<wallpaper
-                    author="daxxmax" 
-	            url="http://loota.org/~daxxmax/pwallpapers/paranoid_1.jpg" />
+	<wallpaper
+            author="daxxmax" 
+	    url="http://loota.org/~daxxmax/pwallpapers/paranoid_2.jpg" />
 
-		<wallpaper
-                    author="daxxmax" 
-	            url="http://loota.org/~daxxmax/pwallpapers/paranoid_2.jpg" />
+	<wallpaper 
+            author="daxxmax"
+	    url="http://loota.org/~daxxmax/pwallpapers/paranoid_3.jpg" />
 
-		<wallpaper 
-                    author="daxxmax"
-	            url="http://loota.org/~daxxmax/pwallpapers/paranoid_3.jpg" />
-
-		<wallpaper 
-                    author="knokfirst"
-	            url="http://loota.org/~daxxmax/pwallpapers/paranoid_4.jpg"/>
-
+	<wallpaper 
+            author="knokfirst"
+	    url="http://loota.org/~daxxmax/pwallpapers/paranoid_4.jpg"/>
     </category>
 
     <category name="Arts" >
 
-                <wallpaper 
-                    author="Tina"
-		    url="http://loota.org/~daxxmax/pwallpapers/wallpaper_1.jpg" />
+        <wallpaper 
+            author="Tina"
+            url="http://loota.org/~daxxmax/pwallpapers/wallpaper_1.jpg" />
 
-		<wallpaper
-                    author="Tina" 
-	            url="http://loota.org/~daxxmax/pwallpapers/wallpaper_2.jpg" />
+	<wallpaper
+            author="Tina" 
+	    url="http://loota.org/~daxxmax/pwallpapers/wallpaper_2.jpg" />
 
-		<wallpaper
-                    author="Tina" 
-	            url="http://loota.org/~daxxmax/pwallpapers/wallpaper_3.jpg" />
+	<wallpaper
+            author="Tina" 
+	    url="http://loota.org/~daxxmax/pwallpapers/wallpaper_3.jpg" />
 
-		<wallpaper
-                    author="Tina"
-	            url="http://loota.org/~daxxmax/pwallpapers/wallpaper_4.jpg" />
+	<wallpaper
+            author="Tina"
+	    url="http://loota.org/~daxxmax/pwallpapers/wallpaper_4.jpg" />
 
-                <wallpaper
-                    author="Tina"
-                    url="http://loota.org/~daxxmax/pwallpapers/wallpaper_5.jpg" />
+        <wallpaper
+            author="Tina"
+            url="http://loota.org/~daxxmax/pwallpapers/wallpaper_5.jpg" />
 
-		<wallpaper
-                    author="Tina"
-	            url="http://loota.org/~daxxmax/pwallpapers/wallpaper_6.jpg" />
+	<wallpaper
+            author="Tina"
+	    url="http://loota.org/~daxxmax/pwallpapers/wallpaper_6.jpg" />
 
-		<wallpaper
-                    author="Tina" 
-	            url="http://loota.org/~daxxmax/pwallpapers/wallpaper_7.jpg" />
+	<wallpaper
+            author="Tina" 
+	    url="http://loota.org/~daxxmax/pwallpapers/wallpaper_7.jpg" />
 
-		<wallpaper
-                    author="Tina" 
-	            url="http://loota.org/~daxxmax/pwallpapers/wallpaper_8.jpg" />
-
+	<wallpaper
+            author="Tina" 
+	    url="http://loota.org/~daxxmax/pwallpapers/wallpaper_8.jpg" />
     </category>
 
 </wallpapers>
