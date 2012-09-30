@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <wallpapers>
        <category id="main" name="Main">
+                <wallpaper 
+			url="http://loota.org/~daxxmax/pwallpapers/paranoid_5.jpg"
+			name="Don't calm and be Paranoid"
+			author="daxxmax"  />
+                <wallpaper 
+			url="http://loota.org/~daxxmax/pwallpapers/paranoid_bluewall1.jpg"
+			name="Not sure if"
+			author="BlueWall"  />
 	        <wallpaper 
 			url="http://loota.org/~daxxmax/pwallpapers/paranoid_1.jpg"
 			name="Colorize Blue"
