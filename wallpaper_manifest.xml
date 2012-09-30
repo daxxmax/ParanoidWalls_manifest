@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <wallpapers>
        <category id="main" name="Main">
+                <wallpaper
+			url="http://loota.org/~daxxmax/pwallpapers/blueminimalistic.png"
+			name="Pixelette Darkness"
+			author="daxxmax"  />
                 <wallpaper 
 			url="http://loota.org/~daxxmax/pwallpapers/paranoid_5.jpg"
 			name="Don't calm and be Paranoid"
